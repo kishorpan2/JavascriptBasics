@@ -1,0 +1,61 @@
+#container{
+    width:970px;
+    background-color: darkblue;
+    height: 800px;
+    padding: 10px;
+    margin:0px auto;
+}
+#lego1{
+   width:920px;
+   height:60px;
+   color:white;
+   background-color: red; 
+   margin:15px;
+   border-radius: 15px;
+   padding-left: 10px;
+  display: inline-flex;
+   
+}
+#lego2{
+    width: 220px;
+    height:230px;
+    color:white;
+    background-color: lightseagreen;
+    display:inline-block;
+    margin-right: 10px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#lego3{
+    color:white;
+    width: 700px;
+    height: 600px;
+    background-color: black;
+    display:inline-block;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 0px auto
+}
+#lego4{
+    width: 920px;
+    height:50px;
+    background-color:grey;
+    border-radius: 15px;
+}
+#main{
+    vertical-align: middle;
+    display: flex;
+}
+#lego3 a{
+    color:lightseagreen;
+}
+#lego2 a{
+    color:whitesmoke;
+}
+span{
+    color:blue;
+}
+#lego4 a{
+    color:lightseagreen;
+}
